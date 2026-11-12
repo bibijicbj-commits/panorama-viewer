@@ -1,0 +1,9 @@
+{
+  "name": "panorama-viewer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "在浏览器中查看本地等距圆柱全景图",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
